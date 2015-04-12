@@ -45,3 +45,31 @@ c:\users\антон\documents\visual studio 2013\Projects\Books_01\Books_01\bin\
 c:\users\антон\documents\visual studio 2013\Projects\Books_01\Books_01\obj\Debug\Books_01.csprojResolveAssemblyReference.cache
 c:\users\антон\documents\visual studio 2013\Projects\Books_01\Books_01\obj\Debug\Books_01.dll
 c:\users\антон\documents\visual studio 2013\Projects\Books_01\Books_01\obj\Debug\Books_01.pdb
+D:\DEN\Books\Books_01\obj\Debug\Books_01.csprojResolveAssemblyReference.cache
+D:\DEN\Books\Books_01\obj\Debug\Books_01.dll
+D:\DEN\Books\Books_01\obj\Debug\Books_01.pdb
+D:\DEN\Books\Books_01\bin\Books_01.dll.config
+D:\DEN\Books\Books_01\bin\Books_01.dll
+D:\DEN\Books\Books_01\bin\Books_01.pdb
+D:\DEN\Books\Books_01\bin\EntityFramework.dll
+D:\DEN\Books\Books_01\bin\EntityFramework.SqlServer.dll
+D:\DEN\Books\Books_01\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DEN\Books\Books_01\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DEN\Books\Books_01\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.dll
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.Security.dll
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DEN\Books\Books_01\bin\Owin.dll
+D:\DEN\Books\Books_01\bin\EntityFramework.xml
+D:\DEN\Books\Books_01\bin\EntityFramework.SqlServer.xml
+D:\DEN\Books\Books_01\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DEN\Books\Books_01\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DEN\Books\Books_01\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.xml
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.Security.xml
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DEN\Books\Books_01\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DEN\Books\Books_01\bin\Newtonsoft.Json.xml
